@@ -8,5 +8,5 @@ Features - ['school', 'sex', 'age', 'address', 'famsize', 'Pstatus', 'Medu', 'Fe
        'higher', 'internet', 'romantic', 'famrel', 'freetime', 'goout', 'Dalc',
        'Walc', 'health', 'absences', 'G1', 'G2', 'G3']
        
-Prediction - Accuracy Graph:
+## Prediction - Accuracy Graph:
 ![alt text](https://i.imgur.com/lsbmgWa.jpg)
