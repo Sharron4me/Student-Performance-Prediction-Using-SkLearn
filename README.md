@@ -8,7 +8,7 @@ Features - ['school', 'sex', 'age', 'address', 'famsize', 'Pstatus', 'Medu', 'Fe
        'Mjob', 'Fjob', 'reason', 'guardian', 'traveltime', 'studytime',
        'failures', 'schoolsup', 'famsup', 'paid', 'activities', 'nursery',
        'higher', 'internet', 'romantic', 'famrel', 'freetime', 'goout', 'Dalc',
-       'Walc', 'health', 'absences', 'G1', 'G2', 'G3']
+       'Walc', 'health', 'absences', 'G1', 'G2']
        
 ## Prediction - Accuracy Graph:
 ![alt text](https://i.imgur.com/lsbmgWa.jpg)
